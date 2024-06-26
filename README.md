@@ -16,16 +16,16 @@ Delete tours that are no longer available.<br>
 
 - Guide Management
   
-View all available guides.
-Assign guides to specific tours.
-Remove guides from tours.
-Add new guides to the system.
+View all available guides.<br>
+Assign guides to specific tours.<br>
+Remove guides from tours.<br>
+Add new guides to the system.<br>
 
 - Booking Management
   
-View all bookings made by users.
-Mark bookings as confirmed or canceled.
-View details of each booking, including tour details and user information.
-Live previews
+View all bookings made by users.<br>
+Mark bookings as confirmed or canceled.<br>
+View details of each booking, including tour details and user information.<br>
+Live previews<br>
 
 
