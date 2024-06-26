@@ -9,10 +9,10 @@ Welcome to the admin dashboard for Waliya Tour & Travel! This dashboard provides
 
 - Tour Management
 
-View all tours listed in the system.
-Add new tours with details such as name, location, price, capacity, description, and image.
-Edit existing tour details.
-Delete tours that are no longer available.
+View all tours listed in the system.<br>
+Add new tours with details such as name, location, price, capacity, description, and image.<br>
+Edit existing tour details.<br>
+Delete tours that are no longer available.<br>
 
 - Guide Management
   
