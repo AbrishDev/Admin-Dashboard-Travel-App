@@ -13,15 +13,15 @@ View all tours listed in the system.
 Add new tours with details such as name, location, price, capacity, description, and image.
 Edit existing tour details.
 Delete tours that are no longer available.
-Guide Management
 
-- View all available guides.
+- Guide Management
+View all available guides.
 Assign guides to specific tours.
 Remove guides from tours.
 Add new guides to the system.
-Booking Management
 
-- View all bookings made by users.
+- Booking Management
+View all bookings made by users.
 Mark bookings as confirmed or canceled.
 View details of each booking, including tour details and user information.
 Live previews
